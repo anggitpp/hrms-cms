@@ -1,0 +1,1 @@
+@include('recruitments.selections.index')
